@@ -34,7 +34,7 @@ TODO: Add long description of the pod here.
   s.vendored_frameworks = "CIKit/CIKitSDK.framework"
   s.resource = ['CIKit/Assets/CIKit.bundle']
   
-  s.dependency 'CIMiniProgramSDK'
+  s.dependency 'CIMiniProgram'
   s.dependency 'SVProgressHUD', '2.2.5'
   s.dependency 'YYModel', '1.0.4'
  
