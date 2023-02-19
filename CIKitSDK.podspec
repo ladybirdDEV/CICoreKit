@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CIKit'
+  s.name             = 'CIKitSDK'
   s.version          = '0.1.7'
   s.summary          = 'A short description of CIKit.'
 
