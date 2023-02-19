@@ -1,0 +1,53 @@
+/* 
+  Language.strings
+  CIKit
+
+  Created by daben on 2022/1/18.
+  Copyright © 2022 CI. All rights reserved.
+*/
+
+// 登录注册
+"form_error_mobile_formatter" = "手机号格式不正确";
+"form_error_password_empty" = "请填写密码";
+"form_error_password_confirm_empty" = "请填写确认密码";
+"form_error_password_diff" = "两次密码不一致，请重新填写";
+"form_error_protocol_agree" = "请先阅读并同意";
+
+"login_title" = "手机号登录";
+"login_form_mobile_title" = "手机号";
+"login_form_mobile_placeholder" = "请填写手机号";
+"login_form_password_title" = "密码";
+"login_form_password_placeholder" = "请填写密码";
+"login_btn_login_title" = "登录";
+"login_btn_register_title" = "没有账号？去注册";
+
+"register_title" = "手机号注册";
+"register_form_mobile_title" = "手机号";
+"register_form_mobile_placeholder" = "请填写手机号";
+"register_form_code_title" = "验证码";
+"register_form_code_placeholder" = "请填写验证码";
+"register_btn_code_title" = "发送验证码";
+"register_form_password_title" = "密码";
+"register_form_password_placeholder" = "请填写密码";
+"register_form_password_confirm_title" = "确认密码";
+"register_form_password_confirm_placeholder" = "请重新填写密码";
+"register_protocol_agree_desc" = "我已阅读并同意";
+"register_protocol_name" = "《隐私政策》";
+"register_btn_register_title" = "注册";
+
+"register_result_success" = "注册成功，请登录";
+
+"camera_error_openauth_%@" = "请在iPhone的\"设置-隐私-相机\"中允许%@访问相机";
+"camera_error_disable" = "未检测到摄像头";
+
+"scan_nav_code" = "扫一扫";
+"scan_nav_photos" = "相册";
+
+"alert_normal_title" = "温馨提示";
+"alert_confirm_title" = "确定";
+"alert_cancel_title" = "取消";
+
+"hud_loading" = "正在加载...";
+"hud_status_finish" = "加载完成";
+
+"mp_pop_nomore" = "没有应用在运行";

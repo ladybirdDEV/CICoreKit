@@ -1,0 +1,53 @@
+/* 
+  Language.strings
+  CIKit
+
+  Created by daben on 2022/1/18.
+  Copyright © 2022 CI. All rights reserved.
+*/
+
+// Login & Register
+"form_error_mobile_formatter" = "Phone number is incorrectly formatted";
+"form_error_password_empty" = "Please fill in the password";
+"form_error_password_confirm_empty" = "Please fill in the password again";
+"form_error_password_diff" = "The two passwords are inconsistent";
+"form_error_protocol_agree" = "Please read and agree protocol";
+
+"login_title" = "Log In";
+"login_form_mobile_title" = "Phone";
+"login_form_mobile_placeholder" = "Phone number";
+"login_form_password_title" = "Password";
+"login_form_password_placeholder" = "Password";
+"login_btn_login_title" = "Log In";
+"login_btn_register_title" = "No Account? Sign up";
+
+"register_title" = "Sign Up";
+"register_form_mobile_title" = "Phone";
+"register_form_mobile_placeholder" = "Phone number";
+"register_form_code_title" = "AuthCode";
+"register_form_code_placeholder" = "Phone code";
+"register_btn_code_title" = "Send code";
+"register_form_password_title" = "Password";
+"register_form_password_placeholder" = "Password first";
+"register_form_password_confirm_title" = "Password";
+"register_form_password_confirm_placeholder" = "Password again";
+"register_protocol_agree_desc" = "I have read and agreed";
+"register_protocol_name" = " <Privacy Policy> ";
+"register_btn_register_title" = "Sign Up";
+
+"register_result_success" = "Success，To Login";
+
+"camera_error_openauth_%@" = "Please allow %@ to access your camera in \"Settings > Privacy > Camera\"";
+"camera_error_disable" = "The camera is disabled";
+
+"scan_nav_code" = "Scan Code";
+"scan_nav_photos" = "Photos";
+
+"alert_normal_title" = "Warm tips";
+"alert_confirm_title" = "OK";
+"alert_cancel_title" = "Cancel";
+
+"hud_loading" = "Loading...";
+"hud_status_finish" = "Success";
+
+"mp_pop_nomore" = "No application is running";
