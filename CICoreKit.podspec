@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CICoreKit'
-  s.version          = '0.1.10'
+  s.version          = '0.1.12'
   s.summary          = 'A short description of CICoreKit.'
 
 # This description is used to generate tags and improve search results.
