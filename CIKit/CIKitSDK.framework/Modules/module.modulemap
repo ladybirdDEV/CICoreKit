@@ -1,6 +1,0 @@
-framework module CIKitSDK {
-  umbrella header "CIKitSDK.h"
-
-  export *
-  module * { export * }
-}

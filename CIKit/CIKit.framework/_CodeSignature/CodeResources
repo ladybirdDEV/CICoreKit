@@ -479,9 +479,9 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Headers/CIKitSDK.h</key>
+		<key>Headers/CIKit.h</key>
 		<data>
-		yWmwJstVH/uS5N1mVu1nykmpEEw=
+		mClT7VfEQyZxUQv16cBm9spmA8k=
 		</data>
 		<key>Headers/CIMiniProgramConst.h</key>
 		<data>
@@ -493,11 +493,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pb0lmr33wEkCjak6jd6DhyQfZ6c=
+		n9NboBwXy261eedkowgJmDICqDo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/aTroxQiSevqKcptkCvf4H13n9I=
+		zEbI2uF6ktQPyIoE0CzSRFU0auA=
 		</data>
 		<key>PKCamera.bundle/PK_Camera_Turn@2x.png</key>
 		<data>
@@ -1844,15 +1844,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Headers/CIKitSDK.h</key>
+		<key>Headers/CIKit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yWmwJstVH/uS5N1mVu1nykmpEEw=
+			mClT7VfEQyZxUQv16cBm9spmA8k=
 			</data>
 			<key>hash2</key>
 			<data>
-			zmc2iEYp1Z58Z/haC9czyfoTtdoHZb8vviPTi9o+arw=
+			aUY5pT2erhIjNrrfFiFm4pG6J9GU2TNOLGh/60yodiI=
 			</data>
 		</dict>
 		<key>Headers/CIMiniProgramConst.h</key>
@@ -1881,11 +1881,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/aTroxQiSevqKcptkCvf4H13n9I=
+			zEbI2uF6ktQPyIoE0CzSRFU0auA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jt7sXhgrWeDRviaTpsAWRGxzwnF7t1fPSR1z5xp0wTM=
+			rCABQXPC7wdBf7iXRtIW/hH9P75R6onaN0cBVok/tWM=
 			</data>
 		</dict>
 		<key>PKCamera.bundle/PK_Camera_Turn@2x.png</key>
