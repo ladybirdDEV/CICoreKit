@@ -1,6 +1,6 @@
 //
 //  CIMiniProgramManager.h
-//  CIKit
+//  CICoreKit
 //
 //  Created by daben on 2022/4/11.
 //  Copyright © 2022 CI. All rights reserved.

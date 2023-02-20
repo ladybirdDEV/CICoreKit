@@ -1,6 +1,6 @@
 //
 //  CIMiniProgramConst.h
-//  CIKit
+//  CICoreKit
 //
 //  Created by daben on 2022/4/12.
 //

@@ -1,0 +1,6 @@
+framework module CICoreKit {
+  umbrella header "CICoreKit.h"
+
+  export *
+  module * { export * }
+}

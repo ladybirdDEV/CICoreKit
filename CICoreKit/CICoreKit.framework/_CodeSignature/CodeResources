@@ -479,25 +479,25 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Headers/CIKit.h</key>
+		<key>Headers/CICoreKit.h</key>
 		<data>
-		mClT7VfEQyZxUQv16cBm9spmA8k=
+		e6WJkhO+imowTqNl5vuQQnNt7GY=
 		</data>
 		<key>Headers/CIMiniProgramConst.h</key>
 		<data>
-		H6d8yaA3qIhB7omYf8ot8PPQ16k=
+		o3uAuffCXJDCnkRg+wYFOtyLxOw=
 		</data>
 		<key>Headers/CIMiniProgramManager.h</key>
 		<data>
-		Cct50F6aAMYKNg9gzUFpeA8yIVA=
+		ALzgWEZ9UKMkRbNnTP/UFB52kRo=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		n9NboBwXy261eedkowgJmDICqDo=
+		Lf/aughaTIcISf+Q86+Bgp8Etjw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		zEbI2uF6ktQPyIoE0CzSRFU0auA=
+		Nk2pBMbsEIoIre5PCbJRwPItzhU=
 		</data>
 		<key>PKCamera.bundle/PK_Camera_Turn@2x.png</key>
 		<data>
@@ -1844,48 +1844,48 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Headers/CIKit.h</key>
+		<key>Headers/CICoreKit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mClT7VfEQyZxUQv16cBm9spmA8k=
+			e6WJkhO+imowTqNl5vuQQnNt7GY=
 			</data>
 			<key>hash2</key>
 			<data>
-			aUY5pT2erhIjNrrfFiFm4pG6J9GU2TNOLGh/60yodiI=
+			Z3c2l4k/NUO5ru2OtuUVimReah04iZbGKvgjdT7wSIc=
 			</data>
 		</dict>
 		<key>Headers/CIMiniProgramConst.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H6d8yaA3qIhB7omYf8ot8PPQ16k=
+			o3uAuffCXJDCnkRg+wYFOtyLxOw=
 			</data>
 			<key>hash2</key>
 			<data>
-			jx3U/e1UMGWUNCqG0pvpZZauhqoz3pALo+H8PkNhJb0=
+			hw7vV1Ew8W9mIhSE1Gfv/dbsUA84+HWy0lysTr/CrM0=
 			</data>
 		</dict>
 		<key>Headers/CIMiniProgramManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Cct50F6aAMYKNg9gzUFpeA8yIVA=
+			ALzgWEZ9UKMkRbNnTP/UFB52kRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			+QcY/I+sAqEXjBct94eyTKXr3y+NNQMJRrUFLXIPP/E=
+			CXuJGdYWCoxkrUOAtvluWCe6zaMsi5MV4IqIvaB0g+o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zEbI2uF6ktQPyIoE0CzSRFU0auA=
+			Nk2pBMbsEIoIre5PCbJRwPItzhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			rCABQXPC7wdBf7iXRtIW/hH9P75R6onaN0cBVok/tWM=
+			6/xoyoOW8fM7mj47z+piHE8xn0jYPe3xMf5KlId0ZNE=
 			</data>
 		</dict>
 		<key>PKCamera.bundle/PK_Camera_Turn@2x.png</key>
